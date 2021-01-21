@@ -134,6 +134,8 @@ a:active {
 #foto {width:30%;
        Float:right;
        z-index: -2;
+       border: 2px solid black;
+      
       }
 
 form {font-size: 18px;
